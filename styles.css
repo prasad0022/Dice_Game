@@ -1,0 +1,40 @@
+
+body{
+    background-color: rgb(50, 49, 49);
+}
+
+.container{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.dice{
+    display:inline-block;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(4, 98, 67);
+    font-size: 8rem;
+    text-shadow: 6px 0 rgb(42, 42, 42);
+}
+
+p, h2{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 2rem;
+    color: rgb(5, 114, 78);
+}
+
+img {
+    width: 80%;
+}
+
+footer{
+    margin-top: 5%;
+    font-family: 'Maven Pro', sans-serif;
+    color: white;
+    text-align: center;
+}
